@@ -1,0 +1,11 @@
+{
+  "name": "mustard",
+  "version": "0.0.1",
+  "description": "A set of UI components for Proximity Innovations",
+  "repository": {
+    "type": "git",
+    "url": "git@git-lab.boldapps.net:proximity/mustard.git"
+  },
+  "author": "Proximity Innovations <info@proximityinnovations.com>",
+  "license": "UNLICENSED",
+}
